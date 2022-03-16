@@ -17,7 +17,7 @@ function App() {
     const [currentPage, setCurrentPage] = useState(pages[0]);
 
     useEffect(() => {
-        document.title = `kruti :: ${currentPage.name}`
+        document.title = `AR: ${currentPage.name}`
     });
 
     return (
