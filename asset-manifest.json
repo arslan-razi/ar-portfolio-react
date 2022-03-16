@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/ar-portfolio-react/static/css/main.073c9b0a.css",
-    "main.js": "/ar-portfolio-react/static/js/main.6812fc3a.js",
+    "main.css": "/ar-portfolio-react/static/css/main.b3b3ca3a.css",
+    "main.js": "/ar-portfolio-react/static/js/main.ee026748.js",
     "static/js/787.3067d934.chunk.js": "/ar-portfolio-react/static/js/787.3067d934.chunk.js",
-    "static/media/logo.svg": "/ar-portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/background.jpg": "/ar-portfolio-react/static/media/background.4b166807ad62b966f477.jpg",
+    "static/media/arslan.jpg": "/ar-portfolio-react/static/media/arslan.6390b9e2bbce1787c0b8.jpg",
+    "static/media/20220123_ArslanRaziResume.pdf": "/ar-portfolio-react/static/media/20220123_ArslanRaziResume.62faaccf209008678524.pdf",
+    "static/media/02.png": "/ar-portfolio-react/static/media/02.bd5877ffa7995463af05.png",
+    "static/media/13.png": "/ar-portfolio-react/static/media/13.5af45e3ea44709e9e64a.png",
+    "static/media/03.png": "/ar-portfolio-react/static/media/03.60da170fef2e507cf09d.png",
+    "static/media/04.png": "/ar-portfolio-react/static/media/04.a2f43082c6fc9833b357.png",
+    "static/media/14.png": "/ar-portfolio-react/static/media/14.2fc5868c3b8ccf97413a.png",
+    "static/media/01.png": "/ar-portfolio-react/static/media/01.78567feb860be7a23a8c.png",
+    "static/media/09.png": "/ar-portfolio-react/static/media/09.748dee4666b5f2a5ac85.png",
+    "static/media/11.png": "/ar-portfolio-react/static/media/11.fc6499c8f68bb6dc3270.png",
+    "static/media/05.png": "/ar-portfolio-react/static/media/05.ad80c4b6668591c09375.png",
+    "static/media/06.png": "/ar-portfolio-react/static/media/06.1f042024358484b69ba8.png",
+    "static/media/08.png": "/ar-portfolio-react/static/media/08.1892c0be8c7925a30013.png",
+    "static/media/12.png": "/ar-portfolio-react/static/media/12.93dfcf62e2d95085af9b.png",
+    "static/media/10.png": "/ar-portfolio-react/static/media/10.0add576cb0918c17e36e.png",
+    "static/media/07.png": "/ar-portfolio-react/static/media/07.e2c50d933a51a7d3cd96.png",
     "index.html": "/ar-portfolio-react/index.html",
-    "main.073c9b0a.css.map": "/ar-portfolio-react/static/css/main.073c9b0a.css.map",
-    "main.6812fc3a.js.map": "/ar-portfolio-react/static/js/main.6812fc3a.js.map",
+    "main.b3b3ca3a.css.map": "/ar-portfolio-react/static/css/main.b3b3ca3a.css.map",
+    "main.ee026748.js.map": "/ar-portfolio-react/static/js/main.ee026748.js.map",
     "787.3067d934.chunk.js.map": "/ar-portfolio-react/static/js/787.3067d934.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6812fc3a.js"
+    "static/css/main.b3b3ca3a.css",
+    "static/js/main.ee026748.js"
   ]
 }
