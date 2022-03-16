@@ -13,7 +13,7 @@ function Nav(props) {
     return (
         <header className="flex-row justify-space-between px-2">
             <h2 className="flex-row my-2 align-center">
-                <a href="/">
+                <a href="/ar-portfolio-react/">
                     Arslan <span className="text-primary">Razi</span>
                 </a>
             </h2>
