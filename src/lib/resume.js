@@ -1,22 +1,24 @@
 const experience = [
     {
         id: 1,
-        title: 'web developer',
-        company: 'PEaaS',
-        dates: 'April 2018 to Novrmber 2019',
+        title: 'Senior Product Manager',
+        company: 'Xenex Enterprises Inc. Toronto, ON',
+        dates: 'Jul 2015 - Present ',
         description: [
-            'Managed and co-led 5+ web development projects from numerous customers focused on eCommerce, data management, app development, money-transfer product design and development, and blog posts.',
-            'Integrated various capabilities using APIs and third-party plugins for interactive, user-friendly, and efficient web applications.',
-            'Effectively translated client requirements into application designs and systems requirements.'
+            'Successfully delivered real-time billing system handling over CA$1.5 million annually',
+            'Established and maintained product roadmap, Influenced overall product vision',
+            'Planned and facilitated requirements workshops, to discover key requirements and recommended solutions to save time and development cost' 
         ]
     },
     {
         id: 2,
-        title: 'Freelance Frontend Developer',
-        company: 'My Self',
-        dates: 'January 2020 to April 2021',
+        title: 'Business Analyst',
+        company: 'HUSYD INC. Mississauga, ON',
+        dates: 'Nov 2013 - Jun 2015',
         description: [
-            'Designed and developed website layouts and efficient applications for FinTech (MEDICI Global) and eCommerce (Swych) platforms as a freelance contractor at PEaaS (a Finablr Company).',
+            'Developed and managed Project Charters, Work Breakdown Structures, Risk Management Plans, Communication Plans, Resource requirements, Cost Estimates, Schedules, and supporting details',
+            'Acted as a Scrum Master and successfully implemented agile scrum methodology for multiple teams',
+            'Led requirements gathering sessions to identify and resolve business systems issues, documented, and maintained business and systems requirements, delivered presentations to key stakeholders'
         ]
     }
 
