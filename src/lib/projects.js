@@ -150,22 +150,32 @@ const showcaseImages = importAll(require.context('../assets/images/showcase/thum
 export const showcase = [
     {
         id: 1,
-        name: 'COVIINFO',
-        text: 'COVIINFO?, my first group project.',
-        technologies: 'JavaScript, covid-19 and news API, chart.js, HTML, Materialize',
+        name: 'Mission Possible',
+        text: 'Mission Possible, my final group project.',
+        technologies: 'Apollo-Server-Express, Bcrypt, GraphQL, JSON Web Tokens, Mongoose, Axios,React-BootStrap ',
         deployed: true,
-        link: 'https://group6-uot.github.io/uot-project1-group6/',
-        github: 'https://github.com/Group6-UoT/uot-project1-group6',
-        description: 'COVIINFO gives the information about the covid-19 realted data. It includes the total number of the cases in the canada. It also give the information about the total vaccinated people in the city vise and provide the information abot the covide speread in world wide. The informatoon is displayed in a chart form so that easy to get the informations and also use can slect the startes in the canada and find such informations!'
+        link: 'https://glacial-cliffs-90348.herokuapp.com/',
+        github: 'https://github.com/Fabscg/group-3-project',
+        description: 'The purpose of this application is to help people find reputable charities who are doing great work for causes around the world. This React single-page application was built using Performant JS, a NoSQL database, service workers to make it a progressive web application, we also used Apollo GraphQL, Concurrent servers and JWT for Authentication. Mobile-first design is built on the fact that users increasingly use their mobile devices to interact with web applications. An application that provides users with the best performance and flexibility is likely to win out over its competitors.'
     },
     {
         id: 2,
-        name: 'window shoppers',
-        text: 'Something Special, a buying and selling products application created with MySQL and Handlebars',
-        technologies: 'Node.js, Express.js, MySQL, Sequelize, Firebase, Handlebars',
+        name: 'Bike Haven',
+        text: 'Bike Haven - An online bike store.',
+        technologies: 'JavaScript, handlebars, anime.js, HTML, CSS',
         deployed: true,
-        link: 'https://project2-window-shopper.herokuapp.com/',
-        github: 'https://github.com/Gr0upFour/projectTwo',
+        link: 'https://bike-haven.herokuapp.com/',
+        github: 'https://github.com/arslan-razi/Bike-Haven',
+        description: 'An Online Bike Store 🚲 Bike Haven is built to facilitate bike customers to make an informed decision. At Bike Haven you can view Featured Bikes. See Bikes and their details. Youcan add Bikes to your wish list. You can also Customize you Bikes. In settings you can Login and Logout. You can also maintain your profile.'
+    },
+    {
+        id: 3,
+        name: 'Arslan Razi Portfolio',
+        text: 'My web development portfolio. It includes assignments from University of Toronto boot camp as well as personal projects.',
+        technologies: 'React, JavaScript, HTML, CSS',
+        deployed: true,
+        link: 'https://arslan-razi.github.io/ar-portfolio-react/',
+        github: 'https://github.com/arslan-razi/ar-portfolio-react',
         description: 'window shoppers allow user to buy and sell their products online. In this application the chat feature also provided so that user and buyer can communicate with eachother. Also there are some other feed are in the main page, which show the latest top rating news and products so that use can get more idias about that.'
     }
 ];
