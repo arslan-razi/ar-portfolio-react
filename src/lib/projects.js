@@ -171,12 +171,12 @@ export const showcase = [
     {
         id: 3,
         name: 'Arslan Razi Portfolio',
-        text: 'My web development portfolio. It includes assignments from University of Toronto boot camp as well as personal projects.',
+        text: 'My web development portfolio.',
         technologies: 'React, JavaScript, HTML, CSS',
         deployed: true,
         link: 'https://arslan-razi.github.io/ar-portfolio-react/',
         github: 'https://github.com/arslan-razi/ar-portfolio-react',
-        description: 'window shoppers allow user to buy and sell their products online. In this application the chat feature also provided so that user and buyer can communicate with eachother. Also there are some other feed are in the main page, which show the latest top rating news and products so that use can get more idias about that.'
+        description: 'It includes assignments from University of Toronto boot camp as well as personal projects. You can also view and download my resume. Contact Me form submission is also available.'
     }
 ];
 
